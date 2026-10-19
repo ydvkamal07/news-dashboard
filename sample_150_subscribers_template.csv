@@ -1,0 +1,11 @@
+Customer_ID,Full_Name,WhatsApp_Number,Delivery_Route,Delivery_Address,Newspapers,Monthly_Fee,Account_Status,Payment_Status,Payment_Method
+NP-101,Rajesh Sharma,919876543210,Route-A (North Lane),"Flat 302, Sai Residency",TOI + Navbharat Times,150,Active,Paid,UPI (GPay)
+NP-102,Amit Verma,919876543211,Route-A (North Lane),"House 14, Sector 4",Dainik Jagran,150,Active,Paid,Cash
+NP-103,Sunita Patil,919876543212,Route-A (North Lane),"B-12, Green Park",Hindustan Times,150,Active,Unpaid,-
+NP-104,Vikas Gupta,919876543213,Route-B (Main Market),"Shop 7, Main Bazaar",Economic Times + Amar Ujala,150,Active,Paid,UPI (PhonePe)
+NP-105,Pooja Mehta,919876543214,Route-B (Main Market),"C-44, Railway Colony",Times of India,150,Active,Unpaid,-
+NP-106,Deepak Joshi,919876543215,Route-C (South Enclave),"Plot 88, Kavi Nagar",Dainik Bhaskar,150,Active,Unpaid,-
+NP-107,Kavita Rao,919876543216,Route-C (South Enclave),"A-501, Silver Heights",The Hindu,150,Active,Paid,UPI (Paytm)
+NP-108,Sanjay Singhal,919876543217,Route-A (North Lane),"Flat 101, Sai Residency",Dainik Jagran + TOI,150,Active,Unpaid,-
+NP-109,Manoj Tiwari,919876543218,Route-B (Main Market),"House 22, Old Lane",Navbharat Times,150,Active,Unpaid,-
+NP-110,Anjali Deshmukh,919876543219,Route-C (South Enclave),"B-204, Royal Palms",Times of India,150,Active,Paid,Cash

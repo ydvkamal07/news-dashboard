@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "business_name": "Deepak News Agency, Rewan",
+    "subscription_fee": 150,
+    "billing_month": "October 2026",
+    "last_synced": "2026-10-18T08:30:00+05:30"
+  },
+  "subscribers": [
+    {
+      "customer_id": "NP-101",
+      "name": "Rajesh Sharma",
+      "phone": "919876543210",
+      "route": "Rewan",
+      "address": "Flat 302, Sai Residency",
+      "newspapers": "TOI + Navbharat Times",
+      "fee": 150,
+      "status": "Paid",
+      "payment_method": "UPI (GPay)",
+      "payment_id": "pay_O7rS29t0Uvwxyz",
+      "paid_at": "2026-10-02 10:15:00"
+    },
+    {
+      "customer_id": "NP-102",
+      "name": "Amit Verma",
+      "phone": "919876543211",
+      "route": "Rewan",
+      "address": "House 14, Sector 4",
+      "newspapers": "Dainik Jagran",
+      "fee": 150,
+      "status": "Paid",
+      "payment_method": "Cash",
+      "payment_id": "CASH-20261003",
+      "paid_at": "2026-10-03 08:45:00"
+    },
+    {
+      "customer_id": "NP-103",
+      "name": "Sunita Patil",
+      "phone": "919876543212",
+      "route": "Rewan",
+      "address": "B-12, Green Park",
+      "newspapers": "Hindustan Times",
+      "fee": 150,
+      "status": "Unpaid",
+      "payment_method": null,
+      "payment_id": null,
+      "due_date": "2026-10-05",
+      "days_overdue": 13,
+      "reminder_count": 2
+    },
+    {
+      "customer_id": "NP-104",
+      "name": "Vikas Gupta",
+      "phone": "919876543213",
+      "route": "Kakwara",
+      "address": "Shop 7, Main Bazaar",
+      "newspapers": "Economic Times + Amar Ujala",
+      "fee": 150,
+      "status": "Paid",
+      "payment_method": "UPI (PhonePe)",
+      "payment_id": "pay_K3lM88j1Pqrs",
+      "paid_at": "2026-10-01 19:30:00"
+    },
+    {
+      "customer_id": "NP-105",
+      "name": "Pooja Mehta",
+      "phone": "919876543214",
+      "route": "Kakwara",
+      "address": "C-44, Railway Colony",
+      "newspapers": "Times of India",
+      "fee": 150,
+      "status": "Unpaid",
+      "payment_method": null,
+      "payment_id": null,
+      "due_date": "2026-10-05",
+      "days_overdue": 13,
+      "reminder_count": 1
+    },
+    {
+      "customer_id": "NP-106",
+      "name": "Deepak Joshi",
+      "phone": "919876543215",
+      "route": "Garhwan",
+      "address": "Plot 88, Kavi Nagar",
+      "newspapers": "Dainik Bhaskar",
+      "fee": 150,
+      "status": "Unpaid",
+      "payment_method": null,
+      "payment_id": null,
+      "due_date": "2026-10-05",
+      "days_overdue": 13,
+      "reminder_count": 2
+    },
+    {
+      "customer_id": "NP-107",
+      "name": "Kavita Rao",
+      "phone": "919876543216",
+      "route": "Garhwan",
+      "address": "A-501, Silver Heights",
+      "newspapers": "The Hindu",
+      "fee": 150,
+      "status": "Paid",
+      "payment_method": "UPI (Paytm)",
+      "payment_id": "pay_Z9xY44v2Rstu",
+      "paid_at": "2026-10-04 12:00:00"
+    }
+  ]
+}
